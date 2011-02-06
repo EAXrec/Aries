@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\bin\Debug\Aries.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\bin\Debug\Aries.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\Aries.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\Aries.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\Aries.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\Aries.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\Aries\Aries\Aries\obj\Debug\Aries.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\Aries.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\Aries.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\bin\Debug\Aries.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\bin\Debug\Aries.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\Aries.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\Aries.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\Aries\Aries\Aries\obj\Debug\GenerateResource-ResGen.write.1.tlog

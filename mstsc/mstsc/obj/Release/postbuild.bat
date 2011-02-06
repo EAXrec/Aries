@@ -1,0 +1,1 @@
+rename output.exe stub.exe

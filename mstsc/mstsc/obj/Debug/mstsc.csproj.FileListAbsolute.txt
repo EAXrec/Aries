@@ -1,0 +1,15 @@
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\bin\Debug\stub.exe
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\bin\Debug\stub.pdb
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\mstsc.Properties.Resources.resources
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\stub.exe
+C:\Users\OhaiBBQ\Desktop\more stoof\Better Aries\Aries\mstsc\mstsc\obj\Debug\stub.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\bin\Debug\stub.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\bin\Debug\stub.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\obj\Debug\mstsc.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\obj\Debug\mstsc.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\obj\Debug\stub.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Microsoft\Better Aries\Aries\mstsc\mstsc\obj\Debug\stub.pdb

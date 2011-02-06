@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mstsc">
+</Property><Property Name="Solution File" Value="C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\mstsc.sln">
+</Property><Property Name="User Options File" Value="C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\mstsc.suo">
+</Property><Property Name="Date" Value="Saturday, August 07, 2010">
+</Property><Property Name="Time" Value="21:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mstsc.sln" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mstsc.suo" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc.suo">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\mstsc.csproj" Description="Project file successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\mstsc.csproj">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\mstsc.csproj.user" Description="Project user file successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\mstsc.csproj.user">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\F1.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\F1.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\F1.Designer.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\F1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\h.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\h.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Pgm.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Pgm.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\RPE.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\RPE.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\s.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\s.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\x.cs" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\x.cs">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Properties\Settings.settings" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\F1.resx" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\F1.resx">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\Properties\Resources.resx" Description="File successfully backed up as C:\Users\OhaiBBQ\Desktop\Better Aries\Aries\mstsc\Backup\mstsc\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="mstsc" Source="mstsc\mstsc.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\mstsc.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mstsc" Source="mstsc\mstsc.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mstsc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mstsc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mstsc" Source="mstsc\mstsc.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

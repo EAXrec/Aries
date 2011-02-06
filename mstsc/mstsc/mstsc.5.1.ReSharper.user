@@ -1,0 +1,120 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:Part.cs" caret="13" fromTop="0" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:Release.cs" caret="1969" fromTop="12" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:SpeedTest.cs" caret="146" fromTop="8" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:Spread.cs" caret="13" fromTop="0" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:Update.cs" caret="769" fromTop="24" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:Version.cs" caret="184" fromTop="8" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/f:WindowsKey.cs" caret="1964" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/f:Config.cs" caret="976" fromTop="12" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/f:FileRegistry.cs" caret="5164" fromTop="22" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/f:Decompress.cs" caret="676" fromTop="15" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/f:Main.cs" caret="11603" fromTop="20" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/f:Program.cs" caret="1507" fromTop="11" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/d:Flooders/f:HTTP.cs" caret="2571" fromTop="41" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/d:Flooders/f:StopFlood.cs" caret="576" fromTop="22" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/d:Flooders/f:SYN.cs" caret="3038" fromTop="24" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Commands/d:Flooders/f:UDP.cs" caret="2851" fromTop="48" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:AntiFound.cs" caret="1057" fromTop="15" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/f:Util.cs" caret="751" fromTop="11" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:CheckDebugger.cs" caret="369" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:CheckProcess.cs" caret="691" fromTop="19" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Config.cs" caret="1418" fromTop="52" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:ProcessAntis.cs" caret="2574" fromTop="19" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Sandbox.cs" caret="0" fromTop="0" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Sniffers.cs" caret="781" fromTop="17" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:SysInternals.cs" caret="0" fromTop="0" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Virtualized.cs" caret="1765" fromTop="26" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5383" fromTop="21" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:OnMessageEventArgs.cs" caret="286" fromTop="15" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Sender.cs" caret="1" fromTop="1" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/f:SimpleAES.cs" caret="4221" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Virtualized.cs" caret="1452" fromTop="15" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:Aries/d:Antis/f:Virtualized.cs" caret="1721" fromTop="22" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="7" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="2" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="17" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="23" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="21" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="14" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="22" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="20" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="24" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="6026" fromTop="95" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="2673" fromTop="30" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="2776" fromTop="6" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="3613" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="4140" fromTop="16" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="4340" fromTop="20" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="4548" fromTop="15" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5041" fromTop="14" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5161" fromTop="19" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5277" fromTop="24" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5397" fromTop="29" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5532" fromTop="13" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5686" fromTop="18" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5966" fromTop="28" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Client.cs" caret="5862" fromTop="20" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:OnMessageEventArgs.cs" caret="0" fromTop="0" />
+      <File id="2C14945C-7719-4BB4-B967-DD39BDFF7BC5/d:IRC/f:Sender.cs" caret="1" fromTop="1" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@mstsc.Aries.Config">
+      <Item value="Version" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="OSVersion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.OperatingSystem">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="0" />
+      <Item value="Encoding`0" priority="0" />
+      <Item value="FileAttribute`0" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="IO" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="Application`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ExecutablePath" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

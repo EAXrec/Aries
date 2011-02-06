@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="DA16A428-EE6C-4166-A271-59497A243F13" ModuleId="Aries" />
+</Modules>
